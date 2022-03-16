@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d3vrudra
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning JavsScript
+- 🌱 I’m currently learning JavsScript and DS Algo.
 - 💞️ I’m looking to collaborate on JS 
 - 📫 How to reach me d3v.rudra@gmail.com
 
