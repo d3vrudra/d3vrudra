@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @d3vrudra
+- 👋 Hi, I’m @d3vrudra .Net full stack developer.
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning JavsScript and DS Algo.
+- 🌱 I’m currently learning JavsScript , Angualr 13 and DS Algo.
 - 💞️ I’m looking to collaborate on JS 
 - 📫 How to reach me d3v.rudra@gmail.com
 
